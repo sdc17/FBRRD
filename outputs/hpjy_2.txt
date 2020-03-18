@@ -1,0 +1,15 @@
+
+========================================================
+cache_size: 4194304, cache_line_size:64, cache_set_size:2048, mapping_ways:32, cache_repl_policy:FBRRD
+all r/w/sum: 34555674 12878655 47434329 
+all in cache r/w/sum: 34555674 12878655 47434329 
+read rate: 72.849505%	write rate: 27.150495%
+read rate in cache: 72.849505%	write rate in cache: 27.150495%
+Cache hit/miss: 9033020/38401309	 hit/miss rate: 19.043212%/80.956788%
+read hit count in cache 8057164	miss count in cache 26498510
+write hit count in cache 975856	miss count in cache 11902799
+Write through:	0	write allocation:	1
+Memory --> Cache:	2.2889GB
+Cache --> Memory:	737.8029MB
+cache sum:	3.0094GB
+Cache from gpu/cpu rate: 74.070813%/25.929187%
